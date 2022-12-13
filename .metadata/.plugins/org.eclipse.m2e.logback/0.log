@@ -1401,3 +1401,4 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.internal.Mav
 2022-12-13 20:38:03,392 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rupal\git\RupaliBhore\SpringBootRestAPI-JPA\src\test\resources
 2022-12-13 21:23:10,257 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-12-13 22:47:18,450 [Worker-19: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\rupal\git\calculator_eclipse\.git]
+2022-12-14 00:11:45,413 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
